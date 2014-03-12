@@ -1,0 +1,3 @@
+# Ohtu-viikko1 gitignore
+*.xxx
+target/
